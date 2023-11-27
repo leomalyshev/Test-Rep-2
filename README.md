@@ -5,3 +5,4 @@ Line Conflict
 Local Conflict
 Local conflict
 New conflict
+Test
