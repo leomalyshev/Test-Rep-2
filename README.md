@@ -3,3 +3,4 @@ Hello Git
 Hello Local pc
 Line Conflict
 Local Conflict
+Local conflict
