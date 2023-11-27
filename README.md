@@ -6,4 +6,4 @@ Local Conflict
 Local conflict
 New conflict
 Test
-New test
+Super
