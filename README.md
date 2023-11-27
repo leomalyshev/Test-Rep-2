@@ -7,3 +7,4 @@ Local conflict
 New conflict
 Test
 Super
+New conflict 2
