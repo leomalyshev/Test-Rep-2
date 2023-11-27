@@ -8,3 +8,4 @@ New conflict
 Test
 Super
 New conflict 2
+New conflict 3
